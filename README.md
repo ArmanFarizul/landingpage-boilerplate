@@ -4,7 +4,7 @@ Projek ini adalah boilerplate untuk membangunkan laman web landing page mengguna
 
 ## Struktur Folder
 
-````plaintext
+```plaintext
 landingpage-boilerplate/
 ├── css/                    # Folder untuk fail CSS yang dihasilkan
 │   └── app.css             # Fail CSS utama yang dihasilkan oleh Sass
@@ -46,6 +46,7 @@ landingpage-boilerplate/
 ├── package.json            # Fail konfigurasi npm
 └── README.md               # Panduan projek ini
 
+```
 
 ## Cara Menggunakan
 
@@ -56,7 +57,7 @@ Clone atau muat turun projek ini:
 ```sh
 git clone https://github.com/yourusername/landingpage-boilerplate.git
 cd landingpage-boilerplate
-````
+```
 
 2. Pasang Dependencies
 
