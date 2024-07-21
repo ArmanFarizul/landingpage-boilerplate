@@ -63,7 +63,9 @@ cd landingpage-boilerplate
 
    Pastikan anda telah memasang Node.js. Kemudian, pasang dependencies:
 
+```sh
    npm install
+```
 
 3. Struktur Sass
 
