@@ -1,8 +1,8 @@
-Landing Page Boilerplate
+# Landing Page Boilerplate
 
 Projek ini adalah boilerplate untuk membangunkan laman web landing page menggunakan Bootstrap versi 5.3.3, Sass, dan JavaScript. Projek ini disusun dengan struktur folder yang jelas dan kemas untuk memudahkan pembangunan dan penyelenggaraan.
 
-Struktur Folder
+# Struktur Folder
 
 landingpage-boilerplate/
 ├── css/ # Folder untuk fail CSS yang dihasilkan
@@ -45,7 +45,7 @@ landingpage-boilerplate/
 ├── package.json # Fail konfigurasi npm
 └── README.md # Panduan projek ini
 
-Cara Menggunakan
+## Cara Menggunakan
 
 1. Muat Turun Projek
 
