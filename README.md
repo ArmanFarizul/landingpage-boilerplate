@@ -71,6 +71,7 @@ cd landingpage-boilerplate
 
    Fail sass/app.scss adalah fail Sass utama yang mengimport semua sub-fail yang lain:
 
+```plaintext
    @import "settings";
    @import "abstracts/abstracts";
    @import "base/base";
@@ -81,6 +82,7 @@ cd landingpage-boilerplate
    @import "vendors/vendors";
 
    @import "../node_modules/bootstrap/scss/bootstrap";
+```
 
 4. Menjalankan Pengawasan Sass
    npm run dev
