@@ -85,4 +85,7 @@ cd landingpage-boilerplate
 ```
 
 4. Menjalankan Pengawasan Sass
+
+```sh
    npm run dev
+```
